@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Web Application Project
 
-[Project 1 Title](/sample_page)
+[Electronic Medical Record](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Queue Management System](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[After-sales service management system＠JAPAN](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
