@@ -1,11 +1,18 @@
 title: SOE THIDA PO # your name (or website title) here
 logo: "/images/IMG_0191.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  About Me
+  I am enthusiastic and completed a Bachelor of Computer Science(2007-2010). 
+  I have exceptional technical experience in software development, data analysis, 
+  database management, testing, and evaluation, which I have gained in various Programmer roles. 
+  I have also completed a Professional Diploma in Software Engineering(ICTTI) organized by Japan 
+  International Cooperation Agency (JICA) and University of Computer Studies, Yangon.Moreover, 
+  I also completed DIPLOMA OF BUSINESS MANAGEMENT AND ADMINISTRATION(ICM(UK)). In addition, 
+  I have a certificate of JLPT N3 (JAPANESE - LANGUAGE PROFICIENCY TEST) and B2 Level English skill. 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/soulthida-po-8a8850120/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
