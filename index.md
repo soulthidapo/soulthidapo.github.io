@@ -5,7 +5,7 @@
 ### Web Application Project
 
 [Electronic Medical Record](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/EMR.jpeg?raw=true"/>
 
 ---
 [Queue Management System](/pdf/sample_presentation.pdf)
