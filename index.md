@@ -4,16 +4,16 @@
 
 ### Web Application Project
 
-[Electronic Medical Record](/sample_page)
+[Electronic Medical Record@MYANMAR](/sample_page)
 <img src="images/EMR.jpeg?raw=true"/>
 
 ---
-[Queue Management System](/pdf/sample_presentation.pdf)
+[Queue Management System@MYANMAR](/pdf/sample_presentation.pdf)
 <img src="images/QMS.jpeg?raw=true"/>
 
 ---
 [After-sales service management system＠JAPAN](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/AfterSaleService.png?raw=true"/>
 
 ---
 
