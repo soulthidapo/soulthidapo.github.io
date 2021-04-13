@@ -30,11 +30,11 @@
 
 ---
 [Material Database Management System@Japan](/sample_page)
-<img src="images/OracleApex2.jpg?raw=true"/>
+<img src="images/OracleApexS2.jpg.jpg?raw=true"/>
 
 ---
 [Workflow Database Management System@Japan](/sample_page)
-<img src="images/OracleApex.png?raw=true"/>
+<img src="images/OracleApexS2.jpg.png?raw=true"/>
 
 ---
 [Building Management System@Japan](/sample_page)
