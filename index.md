@@ -17,6 +17,32 @@
 
 ---
 
+[Class Room Elearning System@Japan](/sample_page)
+<img src="images/Elearning.jpeg?raw=true"/>
+
+---
+[Aircon Remote Control Management System@Japan](/sample_page)
+<img src="images/aircon_remote.jpg?raw=true"/>
+
+---
+[STB Remote Control Management System@Japan](/sample_page)
+<img src="images/STB.jpeg?raw=true"/>
+
+---
+[Material Database Management System@Japan](/sample_page)
+<img src="images/OracleApex2.jpg?raw=true"/>
+
+---
+[Workflow Database Management System@Japan](/sample_page)
+<img src="images/OracleApex.png?raw=true"/>
+
+---
+[Building Management System@Japan](/sample_page)
+<img src="images/BMS2.jpeg?raw=true"/>
+
+[Workflow Database Management System@Japan](/sample_page)
+<img src="images/Service Now.jpeg?raw=true"/>
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
