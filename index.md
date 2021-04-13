@@ -4,7 +4,7 @@
 
 ### Web Application Project
 
-[Electronic Medical Record@MYANMAR](/sample_page)
+[Electronic Medical Record@MYANMAR](/EMR_page)
 <img src="images/EMR.jpeg?raw=true"/>
 
 ---
