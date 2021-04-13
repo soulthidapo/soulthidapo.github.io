@@ -22,7 +22,7 @@
 
 ---
 [Aircon Remote Control Management System@Japan](/sample_page)
-<img src="images/aircon_remote.jpg?raw=true"/>
+<img src="images/aircon_remoteS.gif.jpg?raw=true"/>
 
 ---
 [STB Remote Control Management System@Japan](/sample_page)
