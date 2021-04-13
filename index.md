@@ -9,7 +9,7 @@
 
 ---
 [Queue Management System](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/QMS.jpeg?raw=true"/>
 
 ---
 [After-sales service management system＠JAPAN](http://example.com/)
