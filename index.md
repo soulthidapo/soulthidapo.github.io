@@ -22,7 +22,7 @@
 
 ---
 [Aircon Remote Control Management System@Japan](/sample_page)
-<img src="images/aircon_remoteS.gif.jpg?raw=true"/>
+<img src="images/aircon_remoteS.gif?raw=true"/>
 
 ---
 [STB Remote Control Management System@Japan](/sample_page)
@@ -30,11 +30,11 @@
 
 ---
 [Material Database Management System@Japan](/sample_page)
-<img src="images/OracleApexS2.jpg.jpg?raw=true"/>
+<img src="images/OracleApexS2.jpg?raw=true"/>
 
 ---
 [Workflow Database Management System@Japan](/sample_page)
-<img src="images/OracleApexS2.jpg.png?raw=true"/>
+<img src="images/OracleApexS2.jpg?raw=true"/>
 
 ---
 [Building Management System@Japan](/sample_page)
