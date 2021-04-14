@@ -40,7 +40,7 @@
 [Building Management System@Japan](/sample_page)
 <img src="images/BMS2.jpeg?raw=true"/>
 
-[Workflow Database Management System@Japan](/sample_page)
+[Workflow Database Management System_ServiceNow@Japan](/sample_page)
 <img src="images/Service Now.jpeg?raw=true"/>
 
 ### iOS Applications
