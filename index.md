@@ -43,6 +43,9 @@
 [Workflow Database Management System_ServiceNow@Japan](/servicenow_page)
 <img src="images/Service Now.jpeg?raw=true"/>
 
+[Rakuten Fashion@Japan]
+<img src="images/RF_fashion?raw=true"/>
+
 ### iOS Applications
 
 - [Todoey App](http://example.com/)
