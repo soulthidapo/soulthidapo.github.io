@@ -44,7 +44,7 @@
 <img src="images/Service Now.jpeg?raw=true"/>
 
 [Rakuten Fashion@Japan]
-<img src="images/RF_fashion?raw=true"/>
+<img src="images/RF_fashion.png?raw=true"/>
 
 ### iOS Applications
 
