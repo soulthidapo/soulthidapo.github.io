@@ -1,4 +1,4 @@
-## Queue management system 
+## Rakuten fashion
 
 **Project description:** 
 
