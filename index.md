@@ -43,7 +43,7 @@
 [Workflow Database Management System_ServiceNow@Japan](/servicenow_page)
 <img src="images/Service Now.jpeg?raw=true"/>
 
-[Rakuten Fashion@Japan]
+[Rakuten Fashion@Japan](/rf-fashion.md)
 <img src="images/RF_fashion.png?raw=true"/>
 
 ### iOS Applications
