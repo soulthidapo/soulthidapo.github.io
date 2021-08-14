@@ -2,7 +2,7 @@
 
 **Project description:** 
 
-E-commerce fashion website of Rakuten Group in Japan.
+B2B E-commerce fashion website of Rakuten Group in Japan.
 
 https://brandavenue.rakuten.co.jp/
 
