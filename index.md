@@ -49,6 +49,8 @@
 ### Android Applications
 Currently Working Project!
 - [KINTO - smart mobility](https://play.google.com/store/apps/details?id=com.kinto.kintoglobal&hl=en_US&gl=US)
+- <img src="images/RF_fashion.png?raw=true"/>
+
 
 ### iOS Applications
 - [Todoey App](https://github.com/soulthidapo/Todoey.git)
