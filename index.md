@@ -44,12 +44,11 @@
 <img src="images/Service Now.jpeg?raw=true"/>
 
 [Rakuten Fashion@Japan](https://brandavenue.rakuten.co.jp/)
-<img src="images/rakuten.jpeg?raw=true"/>
+- <img src="images/RF_fashion.png?raw=true"/>
 
 ### Android Applications
 Currently Working Project!
 - [KINTO - smart mobility](https://play.google.com/store/apps/details?id=com.kinto.kintoglobal&hl=en_US&gl=US)
-- <img src="images/RF_fashion.png?raw=true"/>
 
 
 ### iOS Applications
