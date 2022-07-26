@@ -51,11 +51,9 @@
 
 ### iOS Applications
 
-- [Todoey App](http://example.com/)
-- [Clima App](http://example.com/)
-- [Calling Moon App](http://example.com/)
-- [Calculator App](http://example.com/)
-
+- [Todoey App](https://github.com/soulthidapo/Todoey.git)
+- [Match App](https://github.com/soulthidapo/MatchApp.git)
+- [Calling Moon App](https://github.com/soulthidapo/Calling-Moon.git)
 ---
 
 
