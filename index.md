@@ -47,8 +47,7 @@
 <img src="images/RF_fashion.png?raw=true"/>
 
 ### Android Applications
-- KINTO - smart mobility
-https://play.google.com/store/apps/details?id=com.kinto.kintoglobal&hl=en_US&gl=US
+- [KINTO - smart mobility](https://play.google.com/store/apps/details?id=com.kinto.kintoglobal&hl=en_US&gl=US)
 
 ### iOS Applications
 
