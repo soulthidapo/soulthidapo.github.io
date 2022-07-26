@@ -44,7 +44,6 @@
 <img src="images/Service Now.jpeg?raw=true"/>
 
 [Rakuten Fashion@Japan](https://brandavenue.rakuten.co.jp/)
-<img src="images/RF_fashion.png?raw=true"/>
 
 ### Android Applications
 Currently Working Project!
