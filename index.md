@@ -32,9 +32,9 @@ Currently Working Project!
 
 ---
 ### Hands-on Projects(Machine Learning)
-[FoodHub!]([https://ppap.kinto-jp.com/](https://drive.google.com/file/d/13I05SZ_aqw4BKQjWF7fDHE_MK9IdSxUa/view?usp=drive_link))
+[FoodHub!](https://drive.google.com/file/d/1bc3AIDT-jgql4AE9ZFDAF8z3mo8eSgvJ/view?usp=drive_link)
 Course: Python Foundations/n
-Perform an exploratory data analysis and provide actionable insights for a food aggregator company to get a fair idea about the demand of different restaurants and cuisines, which will help them enhance their customer experience and improve the business.
+Perform an exploratory data analysis and provide actionable insights for a food aggregator company to get a fair idea about the demand for different restaurants and cuisines, which will help them enhance their customer experience and improve the business.
 
 
 
