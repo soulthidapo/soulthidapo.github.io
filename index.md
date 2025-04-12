@@ -73,7 +73,7 @@ Build a robust image classifier using CNNs to efficiently classify different pla
 Skills & Tools Covered: Image Processing, Keras, Tensorflow, Convolutional Neural Networks
 
 
-[Stock Market News Sentiment Analysis and Summarization (https://drive.google.com/file/d/1u08pRKsrdMPsXYkrFPp4hiUs769HZDOd/view?usp=sharing)
+[Stock Market News Sentiment Analysis and Summarization](https://drive.google.com/file/d/1u08pRKsrdMPsXYkrFPp4hiUs769HZDOd/view?usp=sharing)
 Course: Introduction to Natural Language Processing
 
 **Project description:** 
