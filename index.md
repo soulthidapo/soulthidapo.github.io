@@ -51,7 +51,11 @@ Skills & Tools Covered: EDA, Data pre-processing, Model building - Decision Tree
 Course: Advanced Machine Learning
 
 **Project description:** 
-To determine if a bank has seen a significant decline in credit card usage, analyze the provided data to understand how profitable credit cards are due to various fees. Build a predictive model that identifies patterns 
+To determine if a bank has seen a significant decline in credit card usage, analyze the provided data to understand how profitable credit cards are due to various fees. Build a predictive model that identifies patterns and customer characteristics to help the bank ensure appropriate fee structures.
+
+Skills & Tools Covered: EDA, Data pre-processing, Model building - Bagging and Random Forest,  Boosting, Model Turnning, Model Performance Evaluation and Improvement, Business Recommendations
+
+
 
 
 
