@@ -29,7 +29,10 @@ Currently Working Project!
 
 - [KINTO - Prism Japan](https://ppap.kinto-jp.com/)
 
-### Hands-on Projects(Machine Learning)
+### Hands-on Projects(Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications)
+
+[Graduate Certificate!](https://la.utexas.edu/texasexeced/digitalVerification.html?key=hhxyicxe)
+
 [FoodHub!](https://drive.google.com/file/d/1bc3AIDT-jgql4AE9ZFDAF8z3mo8eSgvJ/view?usp=drive_link)
 Course: Python Foundations
 
