@@ -28,7 +28,7 @@ Currently Working Project!
 - [KINTO - smart mobility](https://play.google.com/store/apps/details?id=com.kinto.kintoglobal&hl=en_US&gl=US)
 
 - [KINTO - Prism Japan](https://ppap.kinto-jp.com/)
----
+
 ### Hands-on Projects(Machine Learning)
 [FoodHub!](https://drive.google.com/file/d/1bc3AIDT-jgql4AE9ZFDAF8z3mo8eSgvJ/view?usp=drive_link)
 Course: Python Foundations
@@ -54,6 +54,34 @@ Course: Advanced Machine Learning
 To determine if a bank has seen a significant decline in credit card usage, analyze the provided data to understand how profitable credit cards are due to various fees. Build a predictive model that identifies patterns and customer characteristics to help the bank ensure appropriate fee structures.
 
 Skills & Tools Covered: EDA, Data pre-processing, Model building - Bagging and Random Forest,  Boosting, Model Turnning, Model Performance Evaluation and Improvement, Business Recommendations
+
+[Bank Churn Prediction!](https://drive.google.com/file/d/1h4WH9sKAQ1hYBjhVKO9rUywyS1NT_lkG/view?usp=drive_link)
+
+Course: Introduction to Neural Networks
+
+**Project description:** 
+Given a Bank customer, build a neural network-based classifier that can determine whether they will leave or not in the next 6 months.
+
+Skills & Tools Covered: EDA, Data pre-processing, Model building, Artificial Neural Networks(ANN), Multi-Layer Perceptron, MNIST Dataset, Loss Functions, Tensorflow, Keras, Artificial Neural Networks, Regularization
+
+[Plants Seedling Classification!](https://drive.google.com/file/d/12X2WLqtQpnCqCS9WZIXiEH06aKxZr-iS/view?usp=sharing)
+Course: Introduction to Computer Vision
+
+**Project description:** 
+Build a robust image classifier using CNNs to efficiently classify different plant seedlings and weeds to improve crop yields and minimize human involvement.
+
+Skills & Tools Covered: Image Processing, Keras, Tensorflow, Convolutional Neural Networks
+
+
+[Stock Market News Sentiment Analysis and Summarization (https://drive.google.com/file/d/1u08pRKsrdMPsXYkrFPp4hiUs769HZDOd/view?usp=sharing)
+Course: Introduction to Natural Language Processing
+
+**Project description:** 
+Various factors, including company performance, innovations, and market sentiment, influence stock prices on global exchanges. News and opinions significantly impact these prices, but the sheer volume of information makes it difficult for investors to stay informed and interpret their impact accurately. Therefore, investment firms require sophisticated tools to analyze market sentiment and guide investment decisions.
+
+Skills & Tools Covered: Word Embeddings, GloVe, Sentence Transformer, Sentiment Analysis
+
+
 
 
 
