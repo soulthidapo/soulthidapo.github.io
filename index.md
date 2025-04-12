@@ -40,6 +40,7 @@ Perform an exploratory data analysis and provide actionable insights for a food 
 
 [Personal Loan Campaign!](https://drive.google.com/file/d/1bc3AIDT-jgql4AE9ZFDAF8z3mo8eSgvJ/view?usp=sharing)
 Course: Machine Learning
+
 **Project description:** 
 To identify bank customers with a high likelihood of purchasing a loan, you need to analyze the provided data to understand key customer attributes influencing loan acquisition. With this analysis, build a predictive model that captures patterns and customer characteristics, which will help the bank effectively target potential loan buyers, improving marketing efforts and increasing conversion rates.
 
