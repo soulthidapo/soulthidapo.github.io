@@ -38,7 +38,7 @@ Course: Python Foundations
 **Project description:** 
 Perform an exploratory data analysis and provide actionable insights for a food aggregator company to get a fair idea about the demand for different restaurants and cuisines, which will help them enhance their customer experience and improve the business.
 
-[Personal Loan Campaign!](https://drive.google.com/file/d/1bc3AIDT-jgql4AE9ZFDAF8z3mo8eSgvJ/view?usp=sharing)
+[Personal Loan Campaign!](https://drive.google.com/file/d/1MmviQZuo2I2uvz-pXR4Zc3XXe6iFyxKz/view?usp=drive_link)
 Course: Machine Learning
 
 **Project description:** 
