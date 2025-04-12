@@ -12,15 +12,6 @@
 <img src="images/QMS.jpeg?raw=true"/>
 
 ---
-[After-sales service management system＠JAPAN](/aftersale_page)
-<img src="images/AfterSaleService.png?raw=true"/>
-
----
-
-[Class Room Elearning System@Japan](/school_page)
-<img src="images/Elearning.jpeg?raw=true"/>
-
----
 [Aircon Remote Control Management System@Japan](/aircon_page)
 <img src="images/aircon_remoteS.gif?raw=true"/>
 
@@ -50,8 +41,8 @@
 Currently Working Project!
 - [KINTO - smart mobility](https://play.google.com/store/apps/details?id=com.kinto.kintoglobal&hl=en_US&gl=US)
 
+- [KINTO - Prism Japan](https://ppap.kinto-jp.com/)
 
-- [KINTO - Prism Japan] (https://ppap.kinto-jp.com/)
 
 ---
 
