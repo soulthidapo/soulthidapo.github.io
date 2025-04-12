@@ -2,7 +2,7 @@
 
 ---
 
-### Web Application Project
+### Web Application Projects
 
 [Electronic Medical Record@MYANMAR](/emr_page)
 <img src="images/EMR.jpeg?raw=true"/>
