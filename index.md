@@ -42,6 +42,7 @@ Perform an exploratory data analysis and provide actionable insights for a food 
 Skills & Tools Covered : python, Numpy, Pandas, Seaborn, Univariate AnalysisIvariate Analysis, Exploratory Data Analysis, Business recommendations, Bivariate Analysis!
 
 [Personal Loan Campaign!](https://drive.google.com/file/d/1MmviQZuo2I2uvz-pXR4Zc3XXe6iFyxKz/view?usp=drive_link)
+
 Course: Machine Learning
 
 **Project description:** 
@@ -51,6 +52,7 @@ Skills & Tools Covered: EDA, Data pre-processing, Model building - Decision Tree
 
 
 [Credit Card Users Churn Prediction!](https://drive.google.com/file/d/1fV2y3Npyvl5XcSPqmgKtwL5OIn0aqU3d/view?usp=sharing)
+
 Course: Advanced Machine Learning
 
 **Project description:** 
@@ -68,6 +70,7 @@ Given a Bank customer, build a neural network-based classifier that can determin
 Skills & Tools Covered: EDA, Data pre-processing, Model building, Artificial Neural Networks(ANN), Multi-Layer Perceptron, MNIST Dataset, Loss Functions, Tensorflow, Keras, Artificial Neural Networks, Regularization
 
 [Plants Seedling Classification!](https://drive.google.com/file/d/12X2WLqtQpnCqCS9WZIXiEH06aKxZr-iS/view?usp=sharing)
+
 Course: Introduction to Computer Vision
 
 **Project description:** 
