@@ -6,7 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br> 
   My skills encompass web and mobile applications (AI solutions) using Kotlin and Python.
   <br>
+  
   <a href="https://www.linkedin.com/in/soulthidapo/">View My LinkedIn Profile</a> 
+  
   <a href="https://github.com/soulthidapo">View My Github</a> 
   
 theme: jekyll-theme-minimal
