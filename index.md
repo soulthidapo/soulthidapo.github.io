@@ -51,10 +51,7 @@ Currently Working Project!
 - [KINTO - smart mobility](https://play.google.com/store/apps/details?id=com.kinto.kintoglobal&hl=en_US&gl=US)
 
 
-### iOS Applications
-- [Todoey App](https://github.com/soulthidapo/Todoey.git)
-- [Match App](https://github.com/soulthidapo/MatchApp.git)
-- [Calling Moon App](https://github.com/soulthidapo/Calling-Moon.git)
+- [KINTO - Prism Japan] (https://ppap.kinto-jp.com/)
 
 ---
 
