@@ -87,7 +87,7 @@ Various factors, including company performance, innovations, and market sentimen
 
 Skills & Tools Covered: Word Embeddings, GloVe, Sentence Transformer, Sentiment Analysis
 
-[Audio MNIST Digit Recognition]
+[Audio MNIST Digit Recognition!]
 
 Course: Introduction to Neural Networks
 
