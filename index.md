@@ -87,6 +87,18 @@ Various factors, including company performance, innovations, and market sentimen
 
 Skills & Tools Covered: Word Embeddings, GloVe, Sentence Transformer, Sentiment Analysis
 
+[Audio MNIST Digit Recognition]
+
+Course: Introduction to Neural Networks
+
+**Project description:** 
+The objective here is to build an Artificial Neural Network that can look at Mel or MFCC spectrograms of audio files and classify them into 10 classes. The audio files are recordings of different speakers uttering a particular digit and the corresponding class to be predicted is the digit itself.
+
+Skills & Tools Covered: EDA, Data pre-processing, Model building , Artificial Neural Networks(ANN), Multi-Layer Perceptron, MNIST Dataset, Lost Functions, Libraries: Librosa for Audio Preprocessing, Tensorflow, Keras, Artificial Neural Networks, Regularization
+
+
+
+
 
 
 
