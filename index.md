@@ -28,6 +28,7 @@ Currently Working Project!
 - [KINTO - smart mobility](https://play.google.com/store/apps/details?id=com.kinto.kintoglobal&hl=en_US&gl=US)
 
 - [KINTO - Prism Japan](https://ppap.kinto-jp.com/)
+- [Project Detail](/project_A.md)
 
 ### Hands-on Projects(Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications)
 
